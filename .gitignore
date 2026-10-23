@@ -1,0 +1,39 @@
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/.venv/
+env/
+venv/
+ENV/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Uploaded user documents (runtime data, not source)
+backend/app/uploads/
+
+# PostgreSQL data directory
+backend/data/pg_data/
+
+# Runtime data stores & vector indices
+backend/data/doc_store.json
+backend/data/document_history.json
+backend/data/vectors/
+backend/data/*.npy
+backend/data/*.pkl

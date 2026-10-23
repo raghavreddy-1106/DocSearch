@@ -1,0 +1,19 @@
+.env
+*.env
+!.env.example
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Uploaded user documents (runtime data)
+app/uploads/
+
+# PostgreSQL data directory
+data/pg_data/
+
+# Runtime data stores & vector indices
+data/doc_store.json
+data/document_history.json
+data/*.npy
+data/*.pkl

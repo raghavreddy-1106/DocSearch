@@ -1,0 +1,2091 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-10-06T07:19:42.398982+00:00",
+    "query": "what is hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 180,
+    "result_matches": 361,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 198.8
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-06T07:20:06.501158+00:00",
+    "query": "what is hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 180,
+    "result_matches": 361,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 203.3
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-06T07:20:14.998097+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 239.0
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-10-06T07:37:50.854167+00:00",
+    "query": "what is hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 179,
+    "result_matches": 359,
+    "evidence_count": 1,
+    "confidence": "LOW",
+    "latency_ms": 105.4,
+    "typo_corrected": false
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-10-06T07:38:07.966950+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 1,
+    "result_matches": 1,
+    "evidence_count": 1,
+    "confidence": "LOW",
+    "latency_ms": 125.0,
+    "typo_corrected": false
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-10-06T07:38:28.560369+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 151.2,
+    "typo_corrected": false
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-10-06T07:39:21.962120+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 145.4,
+    "typo_corrected": false
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-10-06T07:39:22.452027+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 129.2,
+    "typo_corrected": false
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-10-06T07:39:22.693281+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 180.9,
+    "typo_corrected": false
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-10-06T07:39:22.824121+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 236.0,
+    "typo_corrected": false
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-10-06T07:39:22.906758+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 223.4,
+    "typo_corrected": false
+  },
+  {
+    "id": 12,
+    "timestamp": "2026-10-06T07:39:22.908854+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 122.2,
+    "typo_corrected": false
+  },
+  {
+    "id": 13,
+    "timestamp": "2026-10-06T07:39:23.632216+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 150.8,
+    "typo_corrected": false
+  },
+  {
+    "id": 14,
+    "timestamp": "2026-10-06T07:39:23.937987+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 126.5,
+    "typo_corrected": false
+  },
+  {
+    "id": 15,
+    "timestamp": "2026-10-06T07:39:24.316728+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 128.3,
+    "typo_corrected": false
+  },
+  {
+    "id": 16,
+    "timestamp": "2026-10-06T07:39:24.904425+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 28,
+    "result_matches": 76,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 119.9,
+    "typo_corrected": false
+  },
+  {
+    "id": 17,
+    "timestamp": "2026-10-06T07:39:32.383853+00:00",
+    "query": "hani",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 36,
+    "result_matches": 57,
+    "evidence_count": 8,
+    "confidence": "LOW",
+    "latency_ms": 126.3,
+    "typo_corrected": false
+  },
+  {
+    "id": 18,
+    "timestamp": "2026-10-06T07:40:06.064856+00:00",
+    "query": "hazi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 1,
+    "confidence": "LOW",
+    "latency_ms": 251.7,
+    "typo_corrected": false
+  },
+  {
+    "id": 19,
+    "timestamp": "2026-10-06T07:44:47.998627+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 229.7
+  },
+  {
+    "id": 20,
+    "timestamp": "2026-10-06T07:45:36.978235+00:00",
+    "query": "hazi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "ABSTAINED",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 0,
+    "confidence": "INSUFFICIENT",
+    "latency_ms": 232.3
+  },
+  {
+    "id": 21,
+    "timestamp": "2026-10-06T08:52:00.531167+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 334.3
+  },
+  {
+    "id": 22,
+    "timestamp": "2026-10-07T05:32:09.748982+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 30,
+    "result_matches": 71,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 215.5
+  },
+  {
+    "id": 23,
+    "timestamp": "2026-10-07T05:37:23.484527+00:00",
+    "query": "tts definition",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 36,
+    "result_matches": 36,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 206.0
+  },
+  {
+    "id": 24,
+    "timestamp": "2026-10-07T09:58:27.982674+00:00",
+    "query": "tts",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 36,
+    "result_matches": 99,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 8426.0
+  },
+  {
+    "id": 25,
+    "timestamp": "2026-10-07T09:59:42.403487+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 40470.1
+  },
+  {
+    "id": 26,
+    "timestamp": "2026-10-07T10:03:44.654492+00:00",
+    "query": "normalizing",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 13,
+    "result_matches": 15,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 6732.9
+  },
+  {
+    "id": 27,
+    "timestamp": "2026-10-07T10:36:48.845945+00:00",
+    "query": "AES",
+    "document_names": [],
+    "status": "ABSTAINED",
+    "result_pages": 2,
+    "result_matches": 5,
+    "evidence_count": 0,
+    "confidence": "INSUFFICIENT",
+    "latency_ms": 237.3
+  },
+  {
+    "id": 28,
+    "timestamp": "2026-10-07T10:37:17.313605+00:00",
+    "query": "AES",
+    "document_names": [],
+    "status": "ABSTAINED",
+    "result_pages": 2,
+    "result_matches": 5,
+    "evidence_count": 0,
+    "confidence": "INSUFFICIENT",
+    "latency_ms": 203.7
+  },
+  {
+    "id": 29,
+    "timestamp": "2026-10-07T10:45:42.000679+00:00",
+    "query": "productivity Byte Pair Encoding",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 1,
+    "result_matches": 4,
+    "evidence_count": 0,
+    "confidence": "HIGH",
+    "latency_ms": 0.2
+  },
+  {
+    "id": 30,
+    "timestamp": "2026-10-07T10:46:53.728926+00:00",
+    "query": "AES",
+    "document_names": [
+      "SC Lab Manual for Reference.docx"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 59,
+    "evidence_count": 4,
+    "confidence": "HIGH",
+    "latency_ms": 15329.0
+  },
+  {
+    "id": 31,
+    "timestamp": "2026-10-10T13:50:26.064612+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 30655.6
+  },
+  {
+    "id": 32,
+    "timestamp": "2026-10-10T13:50:46.119544+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 29060.1
+  },
+  {
+    "id": 33,
+    "timestamp": "2026-10-10T14:03:05.060350+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 71171.8
+  },
+  {
+    "id": 34,
+    "timestamp": "2026-10-10T14:55:21.666632+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 25935.2
+  },
+  {
+    "id": 35,
+    "timestamp": "2026-10-10T14:56:07.779722+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 14618.1
+  },
+  {
+    "id": 36,
+    "timestamp": "2026-10-10T14:56:24.300196+00:00",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 2,
+    "confidence": "HIGH",
+    "latency_ms": 2744.8
+  },
+  {
+    "id": 37,
+    "timestamp": "2026-10-10T14:59:15.901107+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 30,
+    "result_matches": 71,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 2770.5
+  },
+  {
+    "id": 38,
+    "timestamp": "2026-10-10T15:00:36.481903+00:00",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 30,
+    "result_matches": 71,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 2753.5
+  },
+  {
+    "id": 39,
+    "timestamp": "2026-10-10T15:27:43.763376+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 24713.9
+  },
+  {
+    "id": 40,
+    "timestamp": "2026-10-10T15:29:02.599106+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 42757.7
+  },
+  {
+    "id": 41,
+    "timestamp": "2026-10-10T15:31:46.135677+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 49308.9
+  },
+  {
+    "id": 42,
+    "timestamp": "2026-10-10T15:33:44.599248+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 17933.4
+  },
+  {
+    "id": 43,
+    "timestamp": "2026-10-10T15:40:31.772225+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 12039.9
+  },
+  {
+    "id": 44,
+    "timestamp": "2026-10-10T15:43:25.643909+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 46545.9
+  },
+  {
+    "id": 45,
+    "timestamp": "2026-10-10T15:47:31.030848+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 30601.1
+  },
+  {
+    "id": 46,
+    "timestamp": "2026-10-10T15:49:02.003140+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 55724.0
+  },
+  {
+    "id": 47,
+    "timestamp": "2026-10-10T16:12:05.552791+00:00",
+    "query": "Rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 607806.5
+  },
+  {
+    "id": 48,
+    "timestamp": "2026-10-10T16:14:50.100231+00:00",
+    "query": "Rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 620896.4
+  },
+  {
+    "id": 49,
+    "timestamp": "2026-10-10T16:19:37.489665+00:00",
+    "query": "attention mechanism",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 90,
+    "result_matches": 99,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 200.4
+  },
+  {
+    "id": 50,
+    "timestamp": "2026-10-10T16:23:18.420344+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 242.3
+  },
+  {
+    "id": 51,
+    "timestamp": "2026-10-10T16:23:23.914585+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 215.5
+  },
+  {
+    "id": 52,
+    "timestamp": "2026-10-10T16:23:27.377877+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 210.8
+  },
+  {
+    "id": 53,
+    "timestamp": "2026-10-10T16:23:42.339510+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 238.4
+  },
+  {
+    "id": 54,
+    "timestamp": "2026-10-10T16:24:03.137956+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 221.2
+  },
+  {
+    "id": 55,
+    "timestamp": "2026-10-10T16:28:11.444270+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 220.3
+  },
+  {
+    "id": 56,
+    "timestamp": "2026-10-10T16:28:37.402583+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 218.5
+  },
+  {
+    "id": 57,
+    "timestamp": "2026-10-10T16:28:55.966991+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 231.8
+  },
+  {
+    "id": 58,
+    "timestamp": "2026-10-10T16:29:14.449897+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 215.7
+  },
+  {
+    "id": 59,
+    "timestamp": "2026-10-10T16:39:16.520795+00:00",
+    "query": "neural networks",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 168,
+    "result_matches": 213,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 211.4
+  },
+  {
+    "id": 60,
+    "timestamp": "2026-10-10T16:42:01.847096+00:00",
+    "query": "Rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 219.6
+  },
+  {
+    "id": 61,
+    "timestamp": "2026-10-10T16:42:20.306223+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 245.4
+  },
+  {
+    "id": 62,
+    "timestamp": "2026-10-10T16:44:17.562137+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 255.2
+  },
+  {
+    "id": 63,
+    "timestamp": "2026-10-10T16:55:37.498009+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 217.6
+  },
+  {
+    "id": 64,
+    "timestamp": "2026-10-10T16:55:54.451765+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 211.1
+  },
+  {
+    "id": 65,
+    "timestamp": "2026-10-10T16:57:04.199334+00:00",
+    "query": "rag",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 134,
+    "result_matches": 250,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 223.4
+  },
+  {
+    "id": 66,
+    "timestamp": "2026-10-10T17:26:57.727268+00:00",
+    "query": "weather station",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 40,
+    "result_matches": 96,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 339.4
+  },
+  {
+    "id": 67,
+    "timestamp": "2026-10-10T17:27:53.329016+00:00",
+    "query": "weather station",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 40,
+    "result_matches": 96,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 224.5
+  },
+  {
+    "id": 68,
+    "timestamp": "2026-10-11T19:25:10.205556+00:00",
+    "query": "weather",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 35,
+    "result_matches": 151,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 216.8
+  },
+  {
+    "id": 69,
+    "timestamp": "2026-10-11T19:25:29.427810+00:00",
+    "query": "weather",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 35,
+    "result_matches": 151,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 213.4
+  },
+  {
+    "id": 70,
+    "timestamp": "2026-10-11T19:25:47.627166+00:00",
+    "query": "weather",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 35,
+    "result_matches": 151,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 244.9
+  },
+  {
+    "id": 71,
+    "timestamp": "2026-10-11T19:43:49.398109+00:00",
+    "user_id": "usr_69d3ca884c34",
+    "user_email": "alice@example.com",
+    "query": "Transformer neural networks",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 93,
+    "result_matches": 201,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 428.4
+  },
+  {
+    "id": 72,
+    "timestamp": "2026-10-11T20:05:34.141876+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "quantum computing",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 1,
+    "result_matches": 1,
+    "evidence_count": 0,
+    "confidence": "HIGH",
+    "latency_ms": 17.4
+  },
+  {
+    "id": 73,
+    "timestamp": "2026-10-11T20:05:44.362709+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "quantum computing",
+    "document_names": [],
+    "status": "ABSTAINED",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 0,
+    "confidence": "HIGH",
+    "latency_ms": 0.5
+  },
+  {
+    "id": 74,
+    "timestamp": "2026-10-11T20:20:59.618792+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 193.9
+  },
+  {
+    "id": 75,
+    "timestamp": "2026-10-11T20:21:08.437684+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 198.1
+  },
+  {
+    "id": 76,
+    "timestamp": "2026-10-11T20:21:14.126419+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "agile development",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 442,
+    "result_matches": 531,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 183.8
+  },
+  {
+    "id": 77,
+    "timestamp": "2026-10-11T20:22:06.565123+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "weather",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 35,
+    "result_matches": 151,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 186.5
+  },
+  {
+    "id": 78,
+    "timestamp": "2026-10-11T20:23:05.935907+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "weathersystem",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "ABSTAINED",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 0,
+    "confidence": "INSUFFICIENT",
+    "latency_ms": 212.1
+  },
+  {
+    "id": 79,
+    "timestamp": "2026-10-11T20:23:18.268819+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "weather system",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 720,
+    "result_matches": 746,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 191.3
+  },
+  {
+    "id": 80,
+    "timestamp": "2026-10-11T20:24:31.308765+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "BPE",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 30,
+    "result_matches": 71,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 203.8
+  },
+  {
+    "id": 81,
+    "timestamp": "2026-10-11T20:35:43.712288+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 215.7
+  },
+  {
+    "id": 82,
+    "timestamp": "2026-10-11T20:36:35.491492+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 185.0
+  },
+  {
+    "id": 83,
+    "timestamp": "2026-10-11T20:56:55.178757+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 192.2
+  },
+  {
+    "id": 84,
+    "timestamp": "2026-10-11T20:57:37.172222+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "weather",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 35,
+    "result_matches": 151,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 189.2
+  },
+  {
+    "id": 85,
+    "timestamp": "2026-10-11T21:00:35.641153+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "quantum computing",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 32,
+    "result_matches": 32,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 203.2
+  },
+  {
+    "id": 86,
+    "timestamp": "2026-10-11T21:00:50.761474+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "quantum computing",
+    "document_names": [
+      "Software Engineering (9th Edition) by Ian Sommerville.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 32,
+    "result_matches": 32,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 177.9
+  },
+  {
+    "id": 87,
+    "timestamp": "2026-10-12T06:44:43.625854+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 205.4
+  },
+  {
+    "id": 88,
+    "timestamp": "2026-10-13T04:46:34.275812+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "hanzi",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 2,
+    "evidence_count": 1,
+    "confidence": "HIGH",
+    "latency_ms": 192.4
+  },
+  {
+    "id": 89,
+    "timestamp": "2026-10-13T04:52:39.688640+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf",
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 9,
+    "result_matches": 63,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 221.2
+  },
+  {
+    "id": 90,
+    "timestamp": "2026-10-13T05:05:49.712505+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "Daniel Jurafsky - ed3book_Jan26.pdf",
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 9,
+    "result_matches": 63,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 227.3
+  },
+  {
+    "id": 91,
+    "timestamp": "2026-10-13T05:06:53.956600+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 104.5
+  },
+  {
+    "id": 92,
+    "timestamp": "2026-10-13T05:27:37.800441+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 33529.7
+  },
+  {
+    "id": 93,
+    "timestamp": "2026-10-13T05:30:42.405882+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 24200.7
+  },
+  {
+    "id": 94,
+    "timestamp": "2026-10-13T07:39:30.844861+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 24102.9
+  },
+  {
+    "id": 95,
+    "timestamp": "2026-10-13T07:40:15.662227+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 11710.3
+  },
+  {
+    "id": 96,
+    "timestamp": "2026-10-13T08:30:08.563456+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credit to earn for PE Course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 3717.6
+  },
+  {
+    "id": 97,
+    "timestamp": "2026-10-13T08:31:58.491127+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many i credit to earn for Program Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 4329.5
+  },
+  {
+    "id": 98,
+    "timestamp": "2026-10-13T08:33:06.365733+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "Program Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 179,
+    "result_matches": 192,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 4210.2
+  },
+  {
+    "id": 99,
+    "timestamp": "2026-10-13T08:35:08.484502+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete Experimental Elective",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 3527.3
+  },
+  {
+    "id": 100,
+    "timestamp": "2026-10-13T08:38:50.131196+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete UE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 2448.5
+  },
+  {
+    "id": 101,
+    "timestamp": "2026-10-13T08:40:11.376268+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete University Elective course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 3008.3
+  },
+  {
+    "id": 102,
+    "timestamp": "2026-10-13T08:46:54.396367+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 9303.3
+  },
+  {
+    "id": 103,
+    "timestamp": "2026-10-13T10:30:38.043853+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete University Elective course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 12844.0
+  },
+  {
+    "id": 104,
+    "timestamp": "2026-10-13T10:31:33.711768+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 4053.3
+  },
+  {
+    "id": 105,
+    "timestamp": "2026-10-13T10:32:09.502140+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete EE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 8600.4
+  },
+  {
+    "id": 106,
+    "timestamp": "2026-10-13T10:33:34.838026+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "Foundation Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 51,
+    "result_matches": 52,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 6779.7
+  },
+  {
+    "id": 107,
+    "timestamp": "2026-10-13T10:34:25.765791+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are the subjects in Foundation Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 5037.4
+  },
+  {
+    "id": 108,
+    "timestamp": "2026-10-13T12:18:58.356165+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are the subjects in Foundation Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 8914.8
+  },
+  {
+    "id": 109,
+    "timestamp": "2026-10-13T12:21:02.823580+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how manu i need to earn to complete UE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 5940.0
+  },
+  {
+    "id": 110,
+    "timestamp": "2026-10-13T12:22:07.074168+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how manu i need to earn to complete University Elective course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 9996.4
+  },
+  {
+    "id": 111,
+    "timestamp": "2026-10-13T12:25:01.054196+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how manu i need to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 2410.2
+  },
+  {
+    "id": 112,
+    "timestamp": "2026-10-13T12:25:30.778994+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how manu i need to earn to complete University Elective course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 171935.7
+  },
+  {
+    "id": 113,
+    "timestamp": "2026-10-13T12:26:51.113558+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "what are the subjects in  PC course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 7430.2
+  },
+  {
+    "id": 114,
+    "timestamp": "2026-10-13T12:28:08.922374+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how many credits i need to earn to complete PC course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 3367.6
+  },
+  {
+    "id": 115,
+    "timestamp": "2026-10-13T12:29:06.041878+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how manu i need to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 5,
+    "confidence": "HIGH",
+    "latency_ms": 276182.7
+  },
+  {
+    "id": 116,
+    "timestamp": "2026-10-13T13:12:22.414292+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 6,
+    "result_matches": 6,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 5675.9
+  },
+  {
+    "id": 117,
+    "timestamp": "2026-10-13T13:13:45.147843+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 6,
+    "result_matches": 6,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 10008.1
+  },
+  {
+    "id": 118,
+    "timestamp": "2026-10-13T13:16:32.732539+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [],
+    "status": "SUCCESS",
+    "result_pages": 6,
+    "result_matches": 6,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 5519.3
+  },
+  {
+    "id": 119,
+    "timestamp": "2026-10-13T13:19:29.683298+00:00",
+    "user_id": "usr_7619f0622ce0",
+    "user_email": "admin@muleguard.com",
+    "query": "how manu i need to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 1,
+    "result_matches": 3,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 27244.2
+  },
+  {
+    "id": 120,
+    "timestamp": "2026-10-13T13:19:43.785582+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 6,
+    "result_matches": 6,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 15232.8
+  },
+  {
+    "id": 121,
+    "timestamp": "2026-10-13T13:21:30.419914+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are subjects in Foundation Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 5,
+    "result_matches": 10,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 13345.0
+  },
+  {
+    "id": 122,
+    "timestamp": "2026-10-15T04:55:42.639314+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what is the syllabus for python programming",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 17,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 35490.8
+  },
+  {
+    "id": 123,
+    "timestamp": "2026-10-15T05:01:34.491281+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 6,
+    "confidence": "HIGH",
+    "latency_ms": 26206.2
+  },
+  {
+    "id": 124,
+    "timestamp": "2026-10-15T05:30:35.711414+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 31293.6
+  },
+  {
+    "id": 125,
+    "timestamp": "2026-10-15T05:32:22.940518+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 6665.9
+  },
+  {
+    "id": 126,
+    "timestamp": "2026-10-15T05:39:28.469881+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 7682.8
+  },
+  {
+    "id": 127,
+    "timestamp": "2026-10-15T05:40:01.597766+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 6011.9
+  },
+  {
+    "id": 128,
+    "timestamp": "2026-10-15T05:47:01.286191+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 27789.3
+  },
+  {
+    "id": 129,
+    "timestamp": "2026-10-15T05:54:10.115833+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 48376.8
+  },
+  {
+    "id": 130,
+    "timestamp": "2026-10-15T05:55:41.338287+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are the subjects in Foundation Core",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 5,
+    "result_matches": 10,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 69021.9
+  },
+  {
+    "id": 131,
+    "timestamp": "2026-10-15T05:57:49.197936+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 35584.7
+  },
+  {
+    "id": 132,
+    "timestamp": "2026-10-15T05:59:11.647732+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are courses under Honors",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 2,
+    "result_matches": 4,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 27581.6
+  },
+  {
+    "id": 133,
+    "timestamp": "2026-10-15T06:00:05.237574+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 26794.1
+  },
+  {
+    "id": 134,
+    "timestamp": "2026-10-15T06:04:10.750765+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 30800.0
+  },
+  {
+    "id": 135,
+    "timestamp": "2026-10-15T06:11:21.743535+00:00",
+    "user_id": null,
+    "user_email": null,
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [],
+    "status": "NO_EVIDENCE",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 0,
+    "confidence": "INSUFFICIENT",
+    "latency_ms": 12688.7
+  },
+  {
+    "id": 136,
+    "timestamp": "2026-10-15T06:16:18.632164+00:00",
+    "user_id": null,
+    "user_email": null,
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [],
+    "status": "NO_EVIDENCE",
+    "result_pages": 0,
+    "result_matches": 0,
+    "evidence_count": 0,
+    "confidence": "INSUFFICIENT",
+    "latency_ms": 265.5
+  },
+  {
+    "id": 137,
+    "timestamp": "2026-10-15T06:17:23.283528+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are the courses under UE",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 29675.9
+  },
+  {
+    "id": 138,
+    "timestamp": "2026-10-15T06:28:38.448651+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "what are the courses under UE",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 9953.5
+  },
+  {
+    "id": 139,
+    "timestamp": "2026-10-15T06:29:30.052227+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 26756.5
+  },
+  {
+    "id": 140,
+    "timestamp": "2026-10-23T03:55:35.433203+00:00",
+    "user_id": "usr_88e005aaa5da",
+    "user_email": "raghavareddy11012005@gmail.com",
+    "query": "how many credits i want to earn to complete PE course",
+    "document_names": [
+      "CSE CURRICULUM AND SYLLABUS 2021.pdf"
+    ],
+    "status": "SUCCESS",
+    "result_pages": 8,
+    "result_matches": 8,
+    "evidence_count": 8,
+    "confidence": "HIGH",
+    "latency_ms": 40670.5
+  }
+]
